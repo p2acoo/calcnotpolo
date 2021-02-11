@@ -1,3 +1,3 @@
 # calcnotpolo
 
-Calculatrice avec la notation polonaise en C
+Calculatrice avec la notation polonaise en C.
